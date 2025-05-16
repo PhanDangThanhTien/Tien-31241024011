@@ -1,5 +1,5 @@
 # Tien-31241024011
-Ứng dụng AI trong nhận diện món ăn và tính tiền tự động tại căn tin
+1.Ứng dụng AI trong nhận diện món ăn và tính tiền tự động tại căn tin
 
 Các hệ thống AI như nhận diện vật thể và tính giá sản phẩm hiện đã phổ biến tại các cửa hàng tiện lợi hiện đại. Tuy nhiên, những giải pháp này thường dựa vào việc quét mã vạch hoặc nhận diện các sản phẩm có bao bì sẵn, điều vốn không phù hợp với môi trường căn tin – nơi món ăn được chế biến tại chỗ, thay đổi mỗi ngày và không gắn nhãn.
 
