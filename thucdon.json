@@ -1,0 +1,42 @@
+[
+    {
+        "ten_mon": "thitkho",
+        "gia": 35000
+    },
+    {
+        "ten_mon": "thitkhotrung",
+        "gia": 40000
+    },
+    {
+        "ten_mon": "trungchien",
+        "gia": 15000
+    },
+    {
+        "ten_mon": "cahukho",
+        "gia": 45000
+    },
+    {
+        "ten_mon": "raumuongxao",
+        "gia": 20000
+    },
+    {
+        "ten_mon": "dauhusotca",
+        "gia": 25000
+    },
+    {
+        "ten_mon": "gachien",
+        "gia": 30000
+    },
+    {
+        "ten_mon": "canhcai",
+        "gia": 15000
+    },
+    {
+        "ten_mon": "canhchua",
+        "gia": 20000
+    },
+    {
+        "ten_mon": "com",
+        "gia": 5000
+    }
+]
